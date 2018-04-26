@@ -82,6 +82,9 @@ footer a:hover{
 
 @media only screen and (max-width: 768px) {
     /* For mobile phones: */
+    .big-title{
+      font-size: 7rem;
+    }
     .phone{
       width: 100%;
     }
